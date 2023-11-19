@@ -22,6 +22,7 @@ def load_env():
 def mobile_management():
     user_name = os.getenv('USERNAMEE')
     access_key = os.getenv('ACCESSKEY')
+    app = os.getenv('APP')
     options = UiAutomator2Options().load_capabilities({
         # Specify device and os_version for testing
         # 'platformName': 'android',
