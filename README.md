@@ -11,7 +11,6 @@
 <a href="https://docs.pytest.org/"><img src="design/icons/pytest.svg" width="50" height="50"  alt="PyTest" title="PyTest"/></a>
 <a href="https://www.selenium.dev//"><img src="design/icons/selenium.svg" width="50" height="50"  alt="Selenium" title="Selenium"/></a>
 <a href="https://appium.io/docs/en/2.1/"><img src="design/icons/appium.png" width="50" height="50"  alt="Selenium" title="Selenium"/></a>
-<a href="https://aerokube.com/selenoid/"><img src="design/icons/selenoid.png" width="50" height="50"  alt="Selenoid" title="Selenoid"/></a>
 <a href="https://www.browserstack.com/"><img src="design/icons/browserstack.png" width="50" height="50"  alt="Selenoid" title="Selenoid"/></a>
 <a href="https://www.jenkins.io/"><img src="design/icons/jenkins.svg" width="50" height="50"  alt="Jenkins" title="Jenkins"/></a>
 <a href="https://qameta.io/allure-report/"><img src="design/icons/allure.png" width="50" height="50"  alt="allure-report" title="allure-report"/></a>
